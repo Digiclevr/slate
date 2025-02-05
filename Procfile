@@ -1,1 +1,1 @@
-web: npm start
+web: npm starweb: bundle exec middleman server --port $PORT
